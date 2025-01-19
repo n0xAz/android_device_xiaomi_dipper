@@ -700,4 +700,7 @@
         <item>3</item> <!-- COLOR_MODE_AUTOMATIC -->
     </integer-array>
 
+    <!-- Enable zRAM writeback feature to allow unused pages in zRAM be written to flash. -->
+    <bool name="config_zramWriteback">true</bool>
+
 </resources>
